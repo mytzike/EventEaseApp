@@ -6,8 +6,6 @@ C:\Users\Kasutaja\EventEaseAppNew\bin\Release\net9.0\wwwroot\_framework\dotnet.n
 C:\Users\Kasutaja\EventEaseAppNew\bin\Release\net9.0\wwwroot\_framework\dotnet.native.tr0cyonrwt.wasm
 C:\Users\Kasutaja\EventEaseAppNew\bin\Release\net9.0\wwwroot\_framework\dotnet.runtime.tsg4gsv2hg.js
 C:\Users\Kasutaja\EventEaseAppNew\bin\Release\net9.0\wwwroot\_framework\dotnet.runtime.js.map
-C:\Users\Kasutaja\EventEaseAppNew\bin\Release\net9.0\wwwroot\_framework\EventEaseAppNew.teruca1wod.pdb
-C:\Users\Kasutaja\EventEaseAppNew\bin\Release\net9.0\wwwroot\_framework\EventEaseAppNew.2jymya5wv8.wasm
 C:\Users\Kasutaja\EventEaseAppNew\bin\Release\net9.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat
 C:\Users\Kasutaja\EventEaseAppNew\bin\Release\net9.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat
 C:\Users\Kasutaja\EventEaseAppNew\bin\Release\net9.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat
@@ -305,7 +303,6 @@ C:\Users\Kasutaja\EventEaseAppNew\bin\Release\net9.0\wwwroot\_framework\System.L
 C:\Users\Kasutaja\EventEaseAppNew\bin\Release\net9.0\wwwroot\_framework\System.Runtime.Numerics.oobvbafpfd.wasm.gz
 C:\Users\Kasutaja\EventEaseAppNew\bin\Release\net9.0\wwwroot\_framework\netstandard.w8gk1pigg1.wasm.gz
 C:\Users\Kasutaja\EventEaseAppNew\bin\Release\net9.0\wwwroot\_framework\System.Core.hsttoe530p.wasm.gz
-C:\Users\Kasutaja\EventEaseAppNew\bin\Release\net9.0\wwwroot\_framework\EventEaseAppNew.teruca1wod.pdb.gz
 C:\Users\Kasutaja\EventEaseAppNew\bin\Release\net9.0\wwwroot\_framework\System.Reflection.Primitives.un27ocukhl.wasm.gz
 C:\Users\Kasutaja\EventEaseAppNew\bin\Release\net9.0\wwwroot\_framework\System.Net.Mail.ig2yuj0spl.wasm.gz
 C:\Users\Kasutaja\EventEaseAppNew\bin\Release\net9.0\wwwroot\_framework\Microsoft.Extensions.Primitives.bq6k0v7oj5.wasm.gz
@@ -393,7 +390,6 @@ C:\Users\Kasutaja\EventEaseAppNew\bin\Release\net9.0\wwwroot\_framework\System.S
 C:\Users\Kasutaja\EventEaseAppNew\bin\Release\net9.0\wwwroot\_framework\System.IO.IsolatedStorage.s6cp1kp0sr.wasm.gz
 C:\Users\Kasutaja\EventEaseAppNew\bin\Release\net9.0\wwwroot\_framework\mscorlib.5q5u0swn6q.wasm.gz
 C:\Users\Kasutaja\EventEaseAppNew\bin\Release\net9.0\wwwroot\_framework\System.Collections.Concurrent.aos1w28dak.wasm.gz
-C:\Users\Kasutaja\EventEaseAppNew\bin\Release\net9.0\wwwroot\_framework\EventEaseAppNew.2jymya5wv8.wasm.gz
 C:\Users\Kasutaja\EventEaseAppNew\bin\Release\net9.0\wwwroot\_framework\System.Formats.Tar.1zsubplx4d.wasm.gz
 C:\Users\Kasutaja\EventEaseAppNew\bin\Release\net9.0\wwwroot\_framework\System.Security.Principal.Windows.th4rlqoajg.wasm.gz
 C:\Users\Kasutaja\EventEaseAppNew\bin\Release\net9.0\wwwroot\_framework\System.Text.Encoding.Extensions.1umlsaq9nw.wasm.gz
@@ -816,7 +812,6 @@ C:\Users\Kasutaja\EventEaseAppNew\obj\Release\net9.0\scopedcss\projectbundle\Eve
 C:\Users\Kasutaja\EventEaseAppNew\obj\Release\net9.0\blazor.build.boot-extension.json
 C:\Users\Kasutaja\EventEaseAppNew\obj\Release\net9.0\blazor.boot.json
 C:\Users\Kasutaja\EventEaseAppNew\obj\Release\net9.0\compressed\yevwpqlz21-h7fjnjecmk.gz
-C:\Users\Kasutaja\EventEaseAppNew\obj\Release\net9.0\compressed\1v9k41hrce-a3helhkc9l.gz
 C:\Users\Kasutaja\EventEaseAppNew\obj\Release\net9.0\compressed\pjbhbuqf5w-bqjiyaj88i.gz
 C:\Users\Kasutaja\EventEaseAppNew\obj\Release\net9.0\compressed\mrd852o3w8-c2jlpeoesf.gz
 C:\Users\Kasutaja\EventEaseAppNew\obj\Release\net9.0\compressed\31r876d6mk-erw9l3u2r3.gz
@@ -861,7 +856,6 @@ C:\Users\Kasutaja\EventEaseAppNew\obj\Release\net9.0\compressed\99urp5b1it-8a0tf
 C:\Users\Kasutaja\EventEaseAppNew\obj\Release\net9.0\compressed\kr2yz0c9q2-x8if477tk8.gz
 C:\Users\Kasutaja\EventEaseAppNew\obj\Release\net9.0\compressed\xm6n6natcq-63fj8s7r0e.gz
 C:\Users\Kasutaja\EventEaseAppNew\obj\Release\net9.0\compressed\q6mnid6qn9-mnuu5ydlp6.gz
-C:\Users\Kasutaja\EventEaseAppNew\obj\Release\net9.0\compressed\zp1h25rmua-iag0ou56lh.gz
 C:\Users\Kasutaja\EventEaseAppNew\obj\Release\net9.0\compressed\y9t902xqxx-md9yvkcqlf.gz
 C:\Users\Kasutaja\EventEaseAppNew\obj\Release\net9.0\compressed\sjm5vjp1h8-4f94ucgrcm.gz
 C:\Users\Kasutaja\EventEaseAppNew\obj\Release\net9.0\compressed\cc6hys6atk-4f94ucgrcm.gz
@@ -1065,9 +1059,6 @@ C:\Users\Kasutaja\EventEaseAppNew\obj\Release\net9.0\compressed\vl6h8kd6me-680lc
 C:\Users\Kasutaja\EventEaseAppNew\obj\Release\net9.0\compressed\3ub0u5u795-tjcz0u77k5.gz
 C:\Users\Kasutaja\EventEaseAppNew\obj\Release\net9.0\compressed\rijtkuayet-tptq2av103.gz
 C:\Users\Kasutaja\EventEaseAppNew\obj\Release\net9.0\compressed\2ndl47xgrv-lfu7j35m59.gz
-C:\Users\Kasutaja\EventEaseAppNew\obj\Release\net9.0\compressed\x9wr70nl36-2jymya5wv8.gz
-C:\Users\Kasutaja\EventEaseAppNew\obj\Release\net9.0\compressed\iis2qzb90x-teruca1wod.gz
-C:\Users\Kasutaja\EventEaseAppNew\obj\Release\net9.0\compressed\5pgq6i8s4l-xmpbcwkfsh.gz
 C:\Users\Kasutaja\EventEaseAppNew\obj\Release\net9.0\staticwebassets.build.json
 C:\Users\Kasutaja\EventEaseAppNew\obj\Release\net9.0\staticwebassets.development.json
 C:\Users\Kasutaja\EventEaseAppNew\obj\Release\net9.0\staticwebassets.build.endpoints.json
@@ -1086,3 +1077,15 @@ C:\Users\Kasutaja\EventEaseAppNew\bin\Release\net9.0\dist\web.config
 C:\Users\Kasutaja\EventEaseAppNew\bin\Release\net9.0\dist\EventEaseAppNew.staticwebassets.endpoints.json
 C:\Users\Kasutaja\EventEaseAppNew\bin\Release\net9.0\dist\wwwroot\sample-data\weather.json
 C:\Users\Kasutaja\EventEaseAppNew\bin\Release\net9.0\dist\wwwroot\_framework\blazor.boot.json
+C:\Users\Kasutaja\EventEaseAppNew\bin\Release\net9.0\wwwroot\_framework\EventEaseAppNew.3jsvjqzty1.pdb
+C:\Users\Kasutaja\EventEaseAppNew\bin\Release\net9.0\wwwroot\_framework\EventEaseAppNew.pfjwnb94eq.wasm
+C:\Users\Kasutaja\EventEaseAppNew\bin\Release\net9.0\wwwroot\_framework\EventEaseAppNew.3jsvjqzty1.pdb.gz
+C:\Users\Kasutaja\EventEaseAppNew\bin\Release\net9.0\wwwroot\_framework\EventEaseAppNew.pfjwnb94eq.wasm.gz
+C:\Users\Kasutaja\EventEaseAppNew\bin\Release\net9.0\dist\dist\EventEaseAppNew.staticwebassets.endpoints.json
+C:\Users\Kasutaja\EventEaseAppNew\bin\Release\net9.0\dist\dist\wwwroot\sample-data\weather.json
+C:\Users\Kasutaja\EventEaseAppNew\bin\Release\net9.0\dist\dist\wwwroot\_framework\blazor.boot.json
+C:\Users\Kasutaja\EventEaseAppNew\bin\Release\net9.0\sample-data\weather.json
+C:\Users\Kasutaja\EventEaseAppNew\obj\Release\net9.0\compressed\1v9k41hrce-ryrbjmm8ig.gz
+C:\Users\Kasutaja\EventEaseAppNew\obj\Release\net9.0\compressed\x9wr70nl36-pfjwnb94eq.gz
+C:\Users\Kasutaja\EventEaseAppNew\obj\Release\net9.0\compressed\iis2qzb90x-3jsvjqzty1.gz
+C:\Users\Kasutaja\EventEaseAppNew\obj\Release\net9.0\compressed\5pgq6i8s4l-tqa9zrzaxy.gz

@@ -1,0 +1,9 @@
+C:\Users\Kasutaja\EventEaseAppNew\docs\dist\web.config
+C:\Users\Kasutaja\EventEaseAppNew\docs\dist\dist\EventEaseAppNew.staticwebassets.endpoints.json
+C:\Users\Kasutaja\EventEaseAppNew\docs\dist\dist\wwwroot\sample-data\weather.json
+C:\Users\Kasutaja\EventEaseAppNew\docs\dist\dist\wwwroot\_framework\blazor.boot.json
+C:\Users\Kasutaja\EventEaseAppNew\docs\dist\EventEaseAppNew.staticwebassets.endpoints.json
+C:\Users\Kasutaja\EventEaseAppNew\docs\dist\wwwroot\sample-data\weather.json
+C:\Users\Kasutaja\EventEaseAppNew\docs\dist\wwwroot\_framework\blazor.boot.json
+C:\Users\Kasutaja\EventEaseAppNew\docs\sample-data\weather.json
+C:\Users\Kasutaja\EventEaseAppNew\docs\web.config

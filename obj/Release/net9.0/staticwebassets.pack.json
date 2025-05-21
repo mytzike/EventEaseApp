@@ -13,14 +13,6 @@
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "C:\\Users\\Kasutaja\\EventEaseAppNew\\wwwroot\\favicon.png",
-      "PackagePath": "staticwebassets\\favicon.png"
-    },
-    {
-      "Id": "C:\\Users\\Kasutaja\\EventEaseAppNew\\wwwroot\\icon-192.png",
-      "PackagePath": "staticwebassets\\icon-192.png"
-    },
-    {
       "Id": "C:\\Users\\Kasutaja\\EventEaseAppNew\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
@@ -199,10 +191,6 @@
     {
       "Id": "C:\\Users\\Kasutaja\\EventEaseAppNew\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
-    },
-    {
-      "Id": "C:\\Users\\Kasutaja\\EventEaseAppNew\\wwwroot\\sample-data\\weather.json",
-      "PackagePath": "staticwebassets\\sample-data\\weather.json"
     },
     {
       "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.EventEaseAppNew.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
