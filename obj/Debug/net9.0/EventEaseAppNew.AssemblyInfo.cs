@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EventEaseAppNew")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d0f25bb330e31da56aa8019312c386547d66738")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a558c4e08aad06e8b5325e2d1ac66f056601b61")]
 [assembly: System.Reflection.AssemblyProductAttribute("EventEaseAppNew")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EventEaseAppNew")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
