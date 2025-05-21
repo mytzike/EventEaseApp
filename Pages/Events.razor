@@ -1,0 +1,45 @@
+@page "/events"
+@using EventEaseAppNew.Models
+@using EventEaseAppNew.Components
+
+@inject EventEaseAppNew.Services.SessionState SessionState
+
+<h1>Event List</h1>
+
+@code {
+    private List<Event> events = new()
+    {
+        new Event { EventName = "Tech Conference 2025", EventDate = new DateTime(2025, 6, 15), Location = "Perth, Australia" },
+        new Event { EventName = "Music Festival", EventDate = new DateTime(2025, 8, 20), Location = "Sydney, Australia" },
+        new Event { EventName = "Art Exhibition", EventDate = new DateTime(2025, 9, 10), Location = "Melbourne, Australia" }
+    };
+
+    private List<Attendance> attendanceList = new();
+
+    private void RegisterAttendance(string eventName)
+    {
+        if (SessionState.CurrentUser != null)
+        {
+            attendanceList.Add(new Attendance
+            {
+                EventName = eventName,
+                UserName = SessionState.CurrentUser.Name,
+                RegistrationDate = DateTime.Now
+            });
+        }
+    }
+}
+
+@foreach (var e in events)
+{
+    <EventCard EventName="@e.EventName" EventDate="@e.EventDate" Location="@e.Location" />
+    <button @onclick="() => RegisterAttendance(e.EventName)">Attend</button>
+}
+
+<h2>Attendance List</h2>
+<ul>
+    @foreach (var a in attendanceList)
+    {
+        <li>@a.UserName is attending @a.EventName (Registered on @a.RegistrationDate)</li>
+    }
+</ul>
